@@ -200,3 +200,4 @@ a.card .more{display:inline-block;margin-top:16px;color:var(--a1);font-weight:60
 @media (max-width:820px){.kit-hero{grid-template-columns:1fr;padding-top:48px}.kit-page{justify-self:start}.kit-faq{grid-template-columns:1fr}.kc dl{grid-template-columns:1fr;gap:2px}.kc dd{margin-bottom:10px}}
 .kit-hero h1{text-wrap:balance}
 @media (max-width:480px){.kit-areas td:nth-child(n+2),.kit-areas th:nth-child(n+2){width:52px}.kit-areas td small{display:none}}
+.kit-faq .wide{grid-column:1/-1}
